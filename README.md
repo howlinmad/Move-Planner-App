@@ -1,4 +1,4 @@
-# Move-Planner-App
+# City Info App
 
 <h4>This is an app that lists nytimes articles and wikipedia information on a givien city.</h4>
 
